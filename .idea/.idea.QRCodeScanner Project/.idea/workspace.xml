@@ -13,7 +13,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/Scanner/WebCamTurnScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
+            <state relative-caret-position="555">
               <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
               <folding>
                 <marker date="1567591058986" expanded="true" signature="6:100" ph="..." />
@@ -33,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/Scanner/QRCodeScanner.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="210">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <marker date="1567601748119" expanded="false" signature="6:78" ph="..." />
@@ -48,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/Scanner/WebCamScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="210">
               <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
               <folding>
                 <marker date="1567584097042" expanded="false" signature="6:100" ph="..." />
@@ -65,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/Gestion desScnes/MenuScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="165">
               <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
               <folding>
                 <marker date="1567590283516" expanded="true" signature="6:114" ph="..." />
@@ -80,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/Gestion desScnes/ChargeSEngager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="180">
               <caret line="19" selection-start-line="19" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <marker date="1567691593569" expanded="true" signature="6:114" ph="..." />
@@ -93,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/Gestion desScnes/ChargerValorissimo.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="45">
+              <caret line="3" column="19" selection-start-line="3" selection-end-line="4" />
               <folding>
                 <marker date="1567697712891" expanded="true" signature="6:114" ph="..." />
                 <marker date="1567697712891" expanded="true" signature="163:432" ph="{...}" />
@@ -109,9 +109,29 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Gestion desScnes/ChargerHermes.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding>
+                <marker date="1567758172571" expanded="true" signature="6:114" ph="..." />
+                <marker date="1567758172571" expanded="true" signature="158:422" ph="{...}" />
+                <marker date="1567758172571" expanded="true" signature="230:251" ph="{...}" />
+                <marker date="1567758172571" expanded="true" signature="309:330" ph="{...}" />
+                <marker date="1567758172571" expanded="true" signature="366:420" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Gestion desScnes/ChargerHermes.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Gestion desScnes/MenuPause.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Scanner/WebCamTurnScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Scanner/QRCodeScanner.cs" root0="FORCE_HIGHLIGHTING" />
@@ -133,10 +153,11 @@
         <option value="$PROJECT_DIR$/Assets/Script/Scanner/QRCodeScanner.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Gestion desScnes/ChargeSEngager.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Gestion desScnes/ChargerValorissimo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Gestion desScnes/ChargerHermes.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-7" />
     <option name="width" value="1614" />
     <option name="height" value="867" />
@@ -146,11 +167,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
@@ -206,12 +227,13 @@
       <workItem from="1567514754768" duration="2667000" />
       <workItem from="1567582093375" duration="11259000" />
       <workItem from="1567604209345" duration="199000" />
-      <workItem from="1567667971629" duration="4939000" />
+      <workItem from="1567667971629" duration="5538000" />
+      <workItem from="1567755875689" duration="2240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19064000" />
+    <option name="totallyTimeSpent" value="21903000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -223,10 +245,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1614" height="867" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="1614" height="867" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08880309" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08944659" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -310,7 +331,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Wikitude/Samples/Scripts/MenuController.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Script/Scanner/WebCamTurnScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
+        <state relative-caret-position="555">
           <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
           <folding>
             <marker date="1567591058986" expanded="true" signature="6:100" ph="..." />
@@ -328,7 +349,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/Scanner/QRCodeScanner.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="210">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <marker date="1567601748119" expanded="false" signature="6:78" ph="..." />
@@ -341,7 +362,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/Scanner/WebCamScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="210">
           <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           <folding>
             <marker date="1567584097042" expanded="false" signature="6:100" ph="..." />
@@ -356,7 +377,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/Gestion desScnes/MenuScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="165">
           <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
           <folding>
             <marker date="1567590283516" expanded="true" signature="6:114" ph="..." />
@@ -369,7 +390,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/Gestion desScnes/ChargeSEngager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="180">
           <caret line="19" selection-start-line="19" selection-end-line="22" selection-end-column="5" />
           <folding>
             <marker date="1567691593569" expanded="true" signature="6:114" ph="..." />
@@ -383,14 +404,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/Gestion desScnes/ChargerValorissimo.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-end-line="4" />
           <folding>
             <marker date="1567697712891" expanded="true" signature="6:114" ph="..." />
             <marker date="1567697712891" expanded="true" signature="163:432" ph="{...}" />
             <marker date="1567697712891" expanded="true" signature="235:256" ph="{...}" />
             <marker date="1567697712891" expanded="true" signature="314:335" ph="{...}" />
             <marker date="1567697712891" expanded="true" signature="371:430" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Gestion desScnes/ChargerHermes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <marker date="1567758172571" expanded="true" signature="6:114" ph="..." />
+            <marker date="1567758172571" expanded="true" signature="158:422" ph="{...}" />
+            <marker date="1567758172571" expanded="true" signature="230:251" ph="{...}" />
+            <marker date="1567758172571" expanded="true" signature="309:330" ph="{...}" />
+            <marker date="1567758172571" expanded="true" signature="366:420" ph="{...}" />
           </folding>
         </state>
       </provider>

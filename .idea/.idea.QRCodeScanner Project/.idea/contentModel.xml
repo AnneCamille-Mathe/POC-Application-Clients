@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Script" t="Include">
           <e p="Gestion desScnes" t="Include">
+            <e p="ChargerHermes.cs" t="Include" />
             <e p="ChargerValorissimo.cs" t="Include" />
             <e p="ChargeSEngager.cs" t="Include" />
             <e p="MenuPause.cs" t="Include" />
